@@ -1,3 +1,4 @@
+//code reads data from diabetes.txt
 #include <iostream>
 #include <cstdlib>
 #include <bits/stdc++.h>
