@@ -1,9 +1,8 @@
 # fptree-diabities
-fp tree is a data mining algorithm to mine frequent item sets form data sets.the project implements fp tree on a database related to 
-diabetes to get frequent item sets, we can experiment with different support counts.
+fp tree is a data mining algorithm to mine frequent item sets form data. This project implements fp tree on a diabetes database.
 
 The dataset contains 9 features , some of the features are continuous or have to many values we need to discretize them before applying 
-the fp tree algorithm,i used entropy based clustering
+the fp tree algorithm, an entropy based clustering is used for this.
 
 after getting frequent item sets we apply apriori algorithm to obtain rules.
 
